@@ -1,4 +1,4 @@
-# Excercise Finder App (Unstyled Version)
+# Excercise Finder App (Styled Version)
 
 This app was built as an educational exercise on my stream on 05/11/2025.
 It uses only HTML and Javascript, with Bootstrap for styling and Supabase as the backend database.
